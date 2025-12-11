@@ -2,7 +2,7 @@
 ----------------
 
 ## Sobre mim 📝
-📚 Estudante de Ciência da Computação com foco em desenvolvimento de software, inovação tecnológica e integração de sistemas escaláveis. 
+Estudante de Ciência da Computação com foco em desenvolvimento de software, inovação tecnológica e integração de sistemas escaláveis. 
 ----------------
 
 ## Contatos 📞
