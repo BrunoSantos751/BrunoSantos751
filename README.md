@@ -20,7 +20,7 @@ Estudante de Ciência da Computação com foco em desenvolvimento de software, i
 ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=whit)
 
-## ⭐ Stats Card 
+## Stats Card 
 
 ![Bruno's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrunoSantos751&theme=dark&show_icons=true)
 
